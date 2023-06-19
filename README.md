@@ -34,5 +34,5 @@ Contributions are welcome. For major changes, please open an issue first to disc
 
 ## License
 
-ImageStickyNote is licensed under the MIT License. See the [License](URL) file for more details.
+ImageStickyNote is licensed under the MIT License. See the [License](https://github.com/Haitham-ghaida/ImageStickyNote/blob/main/LICENSE) file for more details.
 
