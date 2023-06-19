@@ -1,0 +1,3 @@
+[console_scripts]
+ImageStickyNote = ImageStickyNote:main
+
