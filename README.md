@@ -29,7 +29,6 @@ Before installing ImageStickyNote, ensure you have the following dependencies in
 
 After setting up the dependencies, you can install ImageStickyNote:
 
-```bash
 pip install ImageStickyNote
 
 <a name="usage"></a>
